@@ -527,6 +527,10 @@
     {
       "old_hint": "rice4_voar-honyo-vo-ki017.jpg",
       "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/15/15-04.jpg"
+    },
+    {
+      "old_hint": "rice4_voar-honyo-vo-ki017.jpg (official photo replacement 2026-10-06)",
+      "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/15/15-04-voar-honyo.jpg"
     }
   ],
   "16": [
@@ -563,6 +567,18 @@
     {
       "old_hint": "v55_cuckoo-cvc-g820nwm.jpg",
       "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/17/17-04.jpg"
+    },
+    {
+      "old_hint": "v55_vivre-v25000.jpg (official photo replacement 2026-10-06)",
+      "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/17/17-02-vivre-v25000.jpg"
+    },
+    {
+      "old_hint": "v55_inic-i50-itower.jpg (official photo replacement 2026-10-06)",
+      "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/17/17-03-inic-i50.jpg"
+    },
+    {
+      "old_hint": "v55_cuckoo-cvc-g820nwm.jpg (official photo replacement 2026-10-06)",
+      "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/17/17-04-cuckoo-g820.jpg"
     }
   ],
   "18": [
@@ -581,6 +597,22 @@
     {
       "old_hint": "dono-dn-703.jpg",
       "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/18/18-04.jpg"
+    },
+    {
+      "old_hint": "jmw-m5001a-plus-pro.jpg (official photo replacement 2026-10-06)",
+      "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/18/18-01-jmw-m5001a.jpg"
+    },
+    {
+      "old_hint": "jmw-carebooster-sdu3a01a.jpg (official photo replacement 2026-10-06)",
+      "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/18/18-02-jmw-carebooster.jpg"
+    },
+    {
+      "old_hint": "hanil-pd-l9350.jpg (official photo replacement 2026-10-06)",
+      "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/18/18-03-hanil-pd-l9350.jpg"
+    },
+    {
+      "old_hint": "dono-dn-703.jpg (official photo replacement 2026-10-06)",
+      "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/18/18-04-dono-dn703.jpg"
     }
   ],
   "19": [
@@ -635,6 +667,14 @@
     {
       "old_hint": "zl2004hg.jpg",
       "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/21/21-04.jpg"
+    },
+    {
+      "old_hint": "tg300_front.jpg (official photo replacement 2026-10-06)",
+      "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/21/21-03-tefal-tg300.jpg"
+    },
+    {
+      "old_hint": "zl2004hg.jpg (official photo replacement 2026-10-06)",
+      "new_url": "https://cdn.jsdelivr.net/gh/wawoo1910s-spec/blog-img@main/posts/21/21-04-zaelec-zl2004hg.jpg"
     }
   ]
 }
